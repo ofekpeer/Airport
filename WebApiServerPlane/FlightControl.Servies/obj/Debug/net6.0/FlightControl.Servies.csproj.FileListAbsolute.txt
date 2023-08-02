@@ -1,0 +1,76 @@
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.deps.json
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.runtimeconfig.json
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.dll
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.pdb
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Data.dll
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Model.dll
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Data.pdb
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Model.pdb
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.csproj.AssemblyReference.cache
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.AssemblyInfoInputs.cache
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.AssemblyInfo.cs
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.csproj.CoreCompileInputs.cache
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.csproj.CopyComplete
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.dll
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\refint\FlightControl.Servies.dll
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.pdb
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.genruntimeconfig.cache
+C:\Users\ofekp\source\repos\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\ref\FlightControl.Servies.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.deps.json
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.runtimeconfig.json
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.csproj.AssemblyReference.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.AssemblyInfoInputs.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.AssemblyInfo.cs
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.csproj.CoreCompileInputs.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.csproj.CopyComplete
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\refint\FlightControl.Servies.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.genruntimeconfig.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\ref\FlightControl.Servies.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Models.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Models.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\PlaneControl.Logic.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\PlaneControl.Logic.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.deps.json
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.runtimeconfig.json
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Models.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\PlaneControl.Logic.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Models.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\PlaneControl.Logic.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.csproj.AssemblyReference.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.AssemblyInfoInputs.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.AssemblyInfo.cs
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.csproj.CoreCompileInputs.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.csproj.CopyComplete
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\refint\FlightControl.Servies.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.genruntimeconfig.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\ref\FlightControl.Servies.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.deps.json
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.runtimeconfig.json
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Servies.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Models.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\PlaneControl.Logic.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\FlightControl.Models.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\bin\Debug\net6.0\PlaneControl.Logic.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.csproj.AssemblyReference.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.AssemblyInfoInputs.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.AssemblyInfo.cs
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.csproj.CoreCompileInputs.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.csproj.CopyComplete
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\refint\FlightControl.Servies.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\FlightControl.Servies.genruntimeconfig.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\ofek\WebApiServerPlane\WebApiServerPlane\FlightControl.Servies\obj\Debug\net6.0\ref\FlightControl.Servies.dll

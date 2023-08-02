@@ -1,0 +1,30 @@
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\bin\Debug\net6.0\PlaneCreate.exe
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\bin\Debug\net6.0\PlaneCreate.deps.json
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\bin\Debug\net6.0\PlaneCreate.runtimeconfig.json
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\bin\Debug\net6.0\PlaneCreate.dll
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\bin\Debug\net6.0\PlaneCreate.pdb
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.csproj.AssemblyReference.cache
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.AssemblyInfoInputs.cache
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.AssemblyInfo.cs
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.csproj.CoreCompileInputs.cache
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.dll
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\refint\PlaneCreate.dll
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.pdb
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.genruntimeconfig.cache
+C:\Users\ofekp\source\repos\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\ref\PlaneCreate.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\bin\Debug\net6.0\PlaneCreate.exe
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\bin\Debug\net6.0\PlaneCreate.deps.json
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\bin\Debug\net6.0\PlaneCreate.runtimeconfig.json
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\bin\Debug\net6.0\PlaneCreate.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\bin\Debug\net6.0\PlaneCreate.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.csproj.AssemblyReference.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.AssemblyInfoInputs.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.AssemblyInfo.cs
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.csproj.CoreCompileInputs.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\refint\PlaneCreate.dll
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.pdb
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\PlaneCreate.genruntimeconfig.cache
+C:\Users\ofekp\OneDrive\שולחן העבודה\finalproject\WebApiServerPlane\PlaneCreate\obj\Debug\net6.0\ref\PlaneCreate.dll

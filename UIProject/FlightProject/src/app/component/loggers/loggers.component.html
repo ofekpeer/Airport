@@ -1,0 +1,25 @@
+<div>
+    <div class="title">
+        <h1>Terminals control</h1>
+    </div>
+    <hr>
+</div>
+
+<table>
+    <tr style="background-color: rgba(61, 61, 61, 0.582);">
+        <th>logger id</th>
+        <th>enter</th>
+        <th>out</th>
+        <th>terminal</th>
+        <th>flight number</th>
+    </tr>
+    <ng-container *ngFor="let log of loggers">
+        <tr>
+            <td>{{log?.id}}</td>
+            <td>{{log?.enter}}</td>
+            <td>{{log?.out}}</td>
+            <td>{{log?.terminalId}}</td>
+            <td>{{log?.flightNumber}}</td>
+        </tr>
+    </ng-container>
+</table>
